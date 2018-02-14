@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/kaushik143/isomorphic-history/issues"
   },
-  "homepage": "https://github.com/kaushik143/isomorphic-history#readme"
+  "homepage": "https://github.com/kaushik143/isomorphic-history#readme",
+  "dependencies": {
+    "history": "^4.7.2"
+  }
 }
