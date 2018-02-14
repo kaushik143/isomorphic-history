@@ -1,0 +1,28 @@
+{
+  "name": "isomorphic-history",
+  "version": "1.0.0",
+  "description": "Isomorphic history which can be used on both client side and server side",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaushik143/isomorphic-history.git"
+  },
+  "keywords": [
+    "history",
+    "isomorphic-history",
+    "server",
+    "side",
+    "rendering",
+    "react",
+    "redux"
+  ],
+  "author": "Kaushik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaushik143/isomorphic-history/issues"
+  },
+  "homepage": "https://github.com/kaushik143/isomorphic-history#readme"
+}
